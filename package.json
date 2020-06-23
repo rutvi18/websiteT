@@ -1,0 +1,25 @@
+{
+  "name": "websitet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rutvi18/Ms.-TarangGaur-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rutvi18/Ms.-TarangGaur-website/issues"
+  },
+  "homepage": "https://github.com/rutvi18/Ms.-TarangGaur-website#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "lightbox2": "^2.11.1"
+  }
+}
